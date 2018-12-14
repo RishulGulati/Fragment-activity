@@ -1,7 +1,9 @@
 package com.example.rishul.fragmentactivityexample;
 
-import android.support.v7.widget.RecyclerView;
+
 import android.view.View;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 public class RowViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 

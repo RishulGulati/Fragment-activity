@@ -6,12 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".FragmentOne">
 
-    <android.support.v7.widget.RecyclerView
+    <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="0.1dp"
         android:background="#26A69A">
-    </android.support.v7.widget.RecyclerView>
+    </androidx.recyclerview.widget.RecyclerView>
 
 </RelativeLayout>
