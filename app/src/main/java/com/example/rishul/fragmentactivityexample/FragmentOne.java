@@ -14,6 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 public class FragmentOne extends Fragment {
+
+    //constructor
     public FragmentOne() {
     }
 
